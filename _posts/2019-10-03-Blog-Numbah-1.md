@@ -1,3 +1,12 @@
+---
+
+title: "Blog Numbah 1"
+
+date: 2019-10-03
+
+---
+
+
 # It's ya boi
 ## I have since realised
 ### Emojis aren't supported on Jekyll / GitHub pages
