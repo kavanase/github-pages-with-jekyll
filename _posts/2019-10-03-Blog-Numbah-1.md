@@ -1,9 +1,7 @@
 ---
-
-title: "Blog Numbah 1"
-
+layout: post
+title: Blog Numbah 1
 date: 2019-10-03
-
 ---
 
 # It's ya boi
